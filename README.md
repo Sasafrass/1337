@@ -2,7 +2,10 @@
 Proud winner of 2k21's ugliest code award TM.
 
 ![alt text](https://github.com/Sasafrass/1337/blob/master/img/cheat.png?raw=true)
-![alt text](https://github.com/Sasafrass/1337/blob/master/img/normal.png?raw=true)
+
+Normal Ranking             |  Cheater Ranking
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Sasafrass/1337/blob/master/img/normal.png?raw=true)  |  ![alt text](https://github.com/Sasafrass/1337/blob/master/img/cheat.png?raw=true)
 
 ## What
 To decide once and for all who's the best 1337'er @ 13:37.
